@@ -1,4 +1,4 @@
-![In with the good, out with the bad.](https://wallhaven.cc/w/pkw6y3)
+![In with the good, out with the bad.](assets/wallhaven-pkw6y3.jpg)
 [My go to study music](https://www.youtube.com/watch?v=5o_uF1L5l6o)
 # README
 (README.md)
